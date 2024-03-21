@@ -1,8 +1,7 @@
-# React + Vite
+REACT ROUTER:
+Nav-link: nav link is use to know where is user navigate to. When a user click the nav link a custom css apply to mark it.
+useLoaderData,loader: it is use to load data just like fetch. But it directly send data to element that you are using to create react router path.
+Link: link is use.its work like anchor tag but its stop the app to reload.and navigate to the path u are set.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
